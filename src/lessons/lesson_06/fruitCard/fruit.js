@@ -34,4 +34,4 @@ export const fruits = [
       image: 'https://imageproxy.wolt.com/menu/menu-images/649ec169a1a911039a1594ee/214de584-1748-11ee-97c0-e262c6a66726_______________________________.jpg',
     },
   ];
-  
+  // Это комент
